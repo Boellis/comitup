@@ -16,7 +16,7 @@ Bootstrap Wifi using Wifi
 -------------------------
 
 The __comitup__ service establishes wifi connectivity for a headless Linux
-system, using wifi as the only access mechanism to the system.
+system, using wifi as the only access mechanism to the system.   
 
 If the computer cannot automatically connect to a local wifi access point,
 __comitup__ will create a custom hotspot, and establish a __comitup-web__
